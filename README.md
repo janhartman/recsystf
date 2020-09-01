@@ -1,5 +1,7 @@
-# Recommender systems with Tensorflow
-In this repository, you'll find the DS-ULFRI workshop materials. 
+# Recommender systems with TensorFlow
+In this repository, you'll find the DS-ULFRI workshop materials.
+
+Authors: Jan Hartman & Martin Jakomin
 
 - Slides: [slides.pdf](slides.pdf)
 - Jupyter notebooks: `notebooks`
