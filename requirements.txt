@@ -1,4 +1,4 @@
-tensorflow==2.4.1
-pandas==1.2.3
-jupyterlab==3.0.11
-seaborn==0.11.1
+tensorflow==2.11.0
+pandas==1.5.3
+jupyterlab==3.6.1
+seaborn==0.12.2
